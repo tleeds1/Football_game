@@ -1,1 +1,1 @@
-# GD_2 Repo
+# A python game project that made a football game which inspired from Haxball gameplay
